@@ -3,5 +3,7 @@
 
     <string name="app_name">AndroidTemplateProject</string>
     <string name="welcome_string">Welcome to Mobo World!\nWish you a happy day!</string>
-
+    <string name="btn_string">Click me!</string>
+    <string name="ok_string">OK</string>
+    
 </resources>

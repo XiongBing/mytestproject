@@ -2,12 +2,24 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="${relativePackage}.${activityClass}" >
-
+    tools:context=".MainActivity" >
+    
     <TextView
+        android:id="@+id/textView_welcome"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
+        android:layout_above="@+id/btn_wheel"
+        android:layout_centerHorizontal="true"
         android:text="@string/welcome_string" />
+    
+    <Button
+        android:id="@+id/btn_wheel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/btn_string" />
+
+
 
 </RelativeLayout>
