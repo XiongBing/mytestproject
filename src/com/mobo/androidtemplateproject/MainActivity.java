@@ -1,5 +1,5 @@
 package com.mobo.androidtemplateproject;
-
+//added something in project3 while the submodule not updated and project2 submodule changed but not project2 not pushed
 import java.util.ArrayList;
 import java.util.Arrays;
 
