@@ -1,3 +1,3 @@
 [submodule "library/wheel"]
 	path = library/wheel
-url=git@github.com:XiongBing/androidlibrary_wheel.git
+url=git@mobogit:androidlibrary_wheel.git
